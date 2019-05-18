@@ -1,0 +1,4 @@
+event_data/
+images/
+*.csv
+.ipynb_checkpoints/
